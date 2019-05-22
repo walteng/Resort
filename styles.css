@@ -1,0 +1,18 @@
+body{
+  background-color: green;
+  font-family: fantasy;
+}
+h1{
+  font-style: normal;
+  text-align: right;
+}
+p{
+  font-style: normal;
+  font-weight: lighter;
+}
+img{
+  align-items: center;
+}
+li{
+  font-style: italic;
+}
